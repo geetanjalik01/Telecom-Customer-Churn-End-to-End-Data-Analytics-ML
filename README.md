@@ -10,8 +10,8 @@ Exploratory Data Analysis (Power BI): Visualizing historical churn trends and KP
 Predictive Modeling (Python): Building a Random Forest Classifier to predict future churn.
 Actionable Insights: Identifying high-risk segments to drive retention strategies.
 
-#Tech Stack & Tools
-Database: Microsoft SQL Server (T-SQL)
+# Tech Stack & Tools
+Database: Microsoft SQL Server
 Data Analysis & ML: Python (Pandas, Scikit-Learn, NumPy, Jupyter Notebook)
 Visualization: Power BI Desktop (DAX, Power Query)
 Model: Random Forest Classifier (Accuracy: 85%)
